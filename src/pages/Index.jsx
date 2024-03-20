@@ -26,7 +26,7 @@ const Index = () => {
     },
     {
       level: "We are ...",
-      icon: "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55JTIwbG9nb3xlbnwwfHx8fDE3MTA5NTA5Mjl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Electrolux_logo.svg/2560px-Electrolux_logo.svg.png",
       price: "Free",
       leadtime: "2-5 days",
       timeslot: "No",
